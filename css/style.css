@@ -1,0 +1,26 @@
+html {
+    background: url(background2.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@font-face {
+    src: url(game_over.ttf) format("truetype");
+}
+
+div.GameOver {
+    font-family: Game Over;
+}
+
+body {
+    text-align: center;
+    font-family: Game Over;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 100;
+    color: white;
+}
