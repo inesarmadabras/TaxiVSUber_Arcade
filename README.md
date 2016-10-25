@@ -23,7 +23,7 @@ Move your character with the arrow keys.
 After you lose, press Enter to play again ou Space no select another character.
 
 ###Bugs
--The highscore doesn't work.
+-The highscore only works with Google Chrome.
 
 ###Pics
 ![gameplay](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img1.png)
