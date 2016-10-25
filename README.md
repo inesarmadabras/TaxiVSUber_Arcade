@@ -1,5 +1,5 @@
 # Taxi vs Uber - Arcade Game
-###Front-End Nanodegree by Udacity
+###Front-End Nanodegree - Udacity
 
 ![game](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img0.png)
 
