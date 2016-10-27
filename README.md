@@ -22,8 +22,9 @@ Select one _not-so-hero_ character by using the right/left arrow keys on your ke
 Move your character with the arrow keys.
 After you lose, press Enter to play again ou Space no select another character.
 
-###Bugs
--The highscore only works with Google Chrome.
+###Questions to the revisor
+-How can I enable this game to be played on a mobile browser?
+-I want to increase the difficulty of the game. Please check the line 150 at the app.js
 
 ###Pics
 ![gameplay](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img1.png)
