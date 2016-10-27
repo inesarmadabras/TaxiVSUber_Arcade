@@ -1,6 +1,7 @@
 # Taxi vs Uber - Arcade Game
-Front-End Nanodegree by Udacity
-![game](inesarmadabras.github.com/TaxiVSTber_Arcade/img0.png)
+###Front-End Nanodegree - Udacity
+
+![game](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img0.png)
 
 ## Summary
 Taxi vs Uber Arcade is a variation of the classic Frogger arcade game....adapted to one of the hottest topics of the year: the war between Taxis and Uber! In this game, you can play with Uber, Cabify, or with the Secretary of State José Mendes, from Portugal.
@@ -22,7 +23,7 @@ Move your character with the arrow keys.
 After you lose, press Enter to play again ou Space no select another character.
 
 ###Bugs
--The highscore doesn't work.
+-The highscore only works with Google Chrome.
 
 ###Pics
-![gameplay](inesarmadabras.github.com/TaxiVSUber_Arcade/img1.png)
+![gameplay](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img1.png)
