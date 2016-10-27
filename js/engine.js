@@ -169,11 +169,11 @@ var Engine = (function(global) {
 
         // Score
         ctx.fillStyle = "white";
-        ctx.font = "60px Game Over";
+        ctx.font = "20px Inconsolata";
         ctx.textAlign = "left";
         ctx.textBaseline = "bottom";
-        ctx.fillText("Score: " + player.score, 10, 590);
-        ctx.fillText("High Score: " + localStorage.highscore, 320, 590);
+        ctx.fillText("Score: " + player.score, 10, 580);
+        ctx.fillText("High Score: " + localStorage.highscore, 340, 580);
 
         if (state == "start") {
             renderPlayerSelect();
@@ -218,24 +218,25 @@ var Engine = (function(global) {
         }
 
         ctx.fillStyle = "white";
-        ctx.font = "120px Game Over";
+        ctx.font = "50px Inconsolata";
         ctx.textAlign = "center";
         ctx.textBaseline = "top";
-        ctx.fillText("Taxi VS Uber", 250, 20);
-        ctx.font = "70px Game Over";
+        ctx.fillText("Taxi VS Uber", 250, 60);
+        ctx.font = "20px Inconsolata";
         ctx.fillStyle = "yellow";
-        ctx.fillText("Pick up passengers without",250,125);
-        ctx.fillText("being attacked by a taxi driver...",250,155);
-        ctx.fillText("or steal passengers of taxis",250,205);
-        ctx.fillText("(it's all a matter of perspective)",250,235);
+        ctx.fillText("Pick up passengers without",250,135);
+        ctx.fillText("being attacked by a taxi driver...",250,165);
+        ctx.fillText("or steal passengers of taxis",250,215);
+        ctx.font = "15px Inconsolata";
+        ctx.fillText("(it's all a matter of perspective)",250,245);
         ctx.fillStyle = "black";
-        ctx.font = "50px Game Over";
-        ctx.fillText("Uber",150, 440);
-        ctx.fillText("Cabify",250, 440);
-        ctx.fillText("Government",355,440);
-        ctx.font = "120px Game Over";
+        ctx.font = "20px Inconsolata";
+        ctx.fillText("Uber",150, 470);
+        ctx.fillText("Cabify",250, 470);
+        ctx.fillText("Government",355,470);
+        ctx.font = "30px Inconsolata";
         ctx.fillStyle = "white";
-        ctx.fillText("Select your player", 250, 440);
+        ctx.fillText("Select your player", 250, 500);
 
     }
 
@@ -243,13 +244,12 @@ var Engine = (function(global) {
         ctx.fillStyle = "red";
         ctx.textAlign = "center";
         ctx.textBaseline = "top";
-        ctx.font = "200px Game Over";
+        ctx.font = "80px Inconsolata";
         ctx.fillText("Game Over", 250, 200);
         ctx.fillStyle = "white";
-        ctx.font = "70px Game Over";
-        ctx.fillText('"Enter" to play again', 250, 435);
-        ctx.font = "70px Game Over";
-        ctx.fillText('"Space" to select a new character', 250, 470);
+        ctx.font = "22px Inconsolata";
+        ctx.fillText('"Enter" to play again', 250, 490);
+        ctx.fillText('"Space" to select a new character', 250, 520);
 
     }
 

@@ -6,21 +6,13 @@ html {
     background-size: cover;
 }
 
-@font-face {
-    src: url(game_over.ttf) format("truetype");
-}
-
-div.GameOver {
-    font-family: Game Over;
-}
-
 body {
     text-align: center;
-    font-family: Game Over;
+    font-family: 'Inconsolata', monospace;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 20px;
     font-weight: 100;
     color: white;
 }
