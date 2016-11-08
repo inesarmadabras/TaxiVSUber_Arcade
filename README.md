@@ -28,3 +28,13 @@ After you lose, press Enter to play again ou Space no select another character.
 
 ###Pics
 ![gameplay](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img1.png)
+
+## Update (08/11/2016)
+###app.js
+Added `'use strict';` tag, to enable the strict mode (even if the file was provided to you). This mode helps to write more "secure" codes by preventing things such as marking down a function with a bad syntax to execute or loading unused variables.
+
+
+###style.css
+The Udacity Frontend Nanodegree Style Guide recommends using *double quotes* for all attribute selectors and property values and *lowercase letters* for selectors, properties and property values (with the exception of strings), including letters in hexadecimal color values
+
+lowercase letters:  
