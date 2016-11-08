@@ -8,7 +8,8 @@ html {
 
 body {
     text-align: center;
-    font-family: 'Inconsolata', monospace;
+    /*UPDATE: The Udacity Frontend Nanodegree Style Guide (FENST) recommends using double quotes for all attribute selectors and property values*/
+    font-family: "Inconsolata", monospace;
 }
 
 h1 {
@@ -20,7 +21,7 @@ h1 {
 .mobileShow {
     display: none;
     color:white;
-    background-color: #7CD45E;
+    background-color: #7cd45e;  /*UPDATE:  lowercase letters - FENST*/
     font-size: 25px;
 }
   /* Smartphone Portrait and Landscape */
