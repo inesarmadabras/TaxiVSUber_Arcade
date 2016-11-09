@@ -4,7 +4,7 @@
 ![game](https://github.com/inesarmadabras/TaxiVSUber_Arcade/blob/master/img0.png)
 
 ## Summary
-Taxi vs Uber Arcade is a variation of the classic Frogger arcade game....adapted to one of the hottest topics of the year: the war between Taxis and Uber! In this game, you can play with Uber, Cabify, or with the Secretary of State José Mendes, from Portugal.
+Taxi vs Uber Arcade is a variation of the classic Frogger arcade game....adapted to one of the hottest topics of the year: the war between Taxis and Uber! In this game, you can play with Uber, Cabify, or with the Secretary of State José Mendes, from Portugal. An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.
 
 ## Objective
 The goal is to cross the road and pick up passengers...or, in another perspective, pick up passengers without being attacked by a taxi driver.
